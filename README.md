@@ -42,3 +42,9 @@ In the event that after three hours you do not have the MVP objectives ready, se
 - Functioning code (server and client side)
 - Short README file describing what is the app about and add instructions on how to use it.
  
+# How to run the solution?
+
+- please clone this repositorie and run ``npm install``.
+
+ - run the file index.js in the "server" directory ``node index.js`` to run the API
+ - run `npm start` in the "client" directory to run the app

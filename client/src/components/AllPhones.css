@@ -1,0 +1,29 @@
+.all-phones {
+
+    margin: 1rem auto;
+    padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    width:fit-content;
+    
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.phone-in-list{
+    padding: 0rem 1rem;
+}
+
+@media (max-width: 600px) {
+    .all-phones{
+        
+        margin: 1rem auto;
+        padding: 1rem;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        
+        
+        border: 1px solid black;
+        border-radius: 5px;
+    }
+  }

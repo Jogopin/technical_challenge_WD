@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-
+import "./AllPhones.css"
 export default function AllPhones(props){
     
     const {allPhonesData} = props
